@@ -16,7 +16,8 @@ website van SpaceX aangehouden, zodat deze zoveel mogelijk past
 bij de uitstraling van het bedrijf. 
 
 De datavisualisaties heb ik veel van elkaar laten verschillen wat 
-betreft het coderen, zodat ik hier zoveel mogelijk van kon leren. 
+betreft het coderen, zodat ik hier zoveel mogelijk van kon leren.
+De datavisualisaties zijn dus ook zelf gemaakt. 
 
 Bedankt voor het lezen van deze readme en het bekijken van deze 
 opdracht.
